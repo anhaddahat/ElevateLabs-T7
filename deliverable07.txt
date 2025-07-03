@@ -1,0 +1,6 @@
+All installed extensions on my chrome browser shown in screenshot 1.
+Checked permissions and reviews for each and they were valid, positive for most but there were few exceptions:
+
+1. Google docs extension can be seen in the extension section in settings but not on the extension option on top-right of the browser as seen in screenshot 2. But if we check the chrome web store for that extension it reveals that chrome apps will no longer be supported in future (screenshot 3) . Thus, this extension was not seen in the extension bar.
+
+2. Keepa extension is a bit suspicious as it monitors all amazon related website but after doing further analysis and checks I found that it only makes graphs to show trends in price of a particular product. Shown in screenshot 4.
